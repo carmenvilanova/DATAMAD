@@ -2,7 +2,7 @@ import pandas as pd
 from scipy.spatial import distance
 
 # Cargar el archivo CSV con los barrios
-barrios_df = pd.read_csv('limitesbarrios.csv')
+barrios_df = pd.read_csv('G:\Mi unidad\Máster UCM\DATAMAD\DATAMAD\limitesbarrios.csv')
 
 def encontrar_barrio(lat_dada, lon_dado):
     """
@@ -38,8 +38,14 @@ def encontrar_barrio(lat_dada, lon_dado):
     return barrio_mas_cercano
 
 # Ejemplo de uso de la función
-latitud = 440953  # Latitud de ejemplo
-longitud = 4477003  # Longitud de ejemplo
+latitud = 40.42455491
+
+
+# Latitud de ejemplo
+longitud = -3.674828003
+
+
+  # Longitud de ejemplo
 barrio = encontrar_barrio(latitud, longitud)
 
 # Mostrar el resultado
