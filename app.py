@@ -9,7 +9,7 @@ def calcular_distancia(lat1, lon1, lat2, lon2):
         lat1_rad = np.radians(lat1)
         lon1_rad = np.radians(lon1)
         lat2_rad = np.radians(lat2)
-        lon2_rad = np.radians(lon2)  # Cambiado de l2 a lon2
+        lon2_rad = np.radians(lon2)
 
         # Fórmula de Haversine
         dlon = lon2_rad - lon1_rad
@@ -22,15 +22,18 @@ def calcular_distancia(lat1, lon1, lat2, lon2):
         return r * c  # Distancia en metros
     except Exception as e:
         st.error(f"Error en el cálculo de distancia: {e}")
-        return np.nan  # Retornar NaN en caso de error
+        return np.nan
 
 # Cargar la base de datos de pisos y desfibriladores
 pisos_df = pd.read_csv(r'G:\Mi unidad\Máster UCM\DATAMAD\DATAMAD\casas_con_coordenadas_transformadas.csv', delimiter=';')
 desfibriladores_df = pd.read_csv(r'G:\Mi unidad\Máster UCM\DATAMAD\DATAMAD\desfibriladores.csv', delimiter=';', encoding='latin1')
+centros_sanitarios_df = pd.read_csv("datos_madrid_latlon.csv")  # Cargar los centros sanitarios
 
-# Verificar si hay valores NaN
+# Verificar si hay valores NaN en coordenadas
 if pisos_df['LATITUD'].isnull().any() or pisos_df['LONGITUD'].isnull().any():
-    st.warning("Hay valores NaN en las columnas de coordenadas de los pisos. Asegúrate de que los datos son correctos.")
+    st.warning("Hay valores NaN en las coordenadas de los pisos. Verifica los datos.")
+if centros_sanitarios_df['latitud'].isnull().any() or centros_sanitarios_df['longitud'].isnull().any():
+    st.warning("Hay valores NaN en las coordenadas de los centros sanitarios. Verifica los datos.")
 
 # Títulos y descripción en Streamlit
 st.title("Buscador de Pisos en Madrid")
@@ -57,7 +60,7 @@ pisos_filtrados = pisos_df[
 
 # Filtro de distancia a desfibriladores
 st.sidebar.header("Filtrar por cercanía a desfibriladores")
-distancia_max = st.sidebar.slider("Distancia máxima (m)", min_value=0, max_value=5000, value=500)
+distancia_max_desfibrilador = st.sidebar.slider("Distancia máxima a desfibriladores (m)", min_value=0, max_value=5000, value=500)
 
 # Calcular la distancia a desfibriladores
 if not pisos_filtrados.empty and not desfibriladores_df.empty:
@@ -77,8 +80,39 @@ if not pisos_filtrados.empty and not desfibriladores_df.empty:
         pisos_filtrados['distancia_desfibrilador'] = np.minimum(pisos_filtrados['distancia_desfibrilador'], distancias)
 
     # Filtrar los pisos según la distancia máxima a desfibriladores
-    pisos_filtrados = pisos_filtrados[pisos_filtrados['distancia_desfibrilador'] <= distancia_max]
+    pisos_filtrados = pisos_filtrados[pisos_filtrados['distancia_desfibrilador'] <= distancia_max_desfibrilador]
+
+# Filtro de distancia a centros sanitarios
+st.sidebar.header("Filtrar por cercanía a centros sanitarios")
+distancia_max_centro = st.sidebar.slider("Distancia máxima a centros sanitarios (m)", min_value=0, max_value=50000, value=500)
+
+# Calcular la distancia a centros sanitarios
+if not pisos_filtrados.empty and not centros_sanitarios_df.empty:
+    # Crear una columna para la distancia mínima a cualquier centro sanitario
+    pisos_filtrados['distancia_centro_sanitario'] = np.inf  # Inicializa con infinito
+
+    # Iterar sobre cada centro sanitario y calcular distancias
+    for _, centro in centros_sanitarios_df.iterrows():
+        # Asegurarse de que las coordenadas son numéricas
+        lat_c = centro['latitud']
+        lon_c = centro['longitud']
+
+        # Calcular distancias
+        distancias_centros = pisos_filtrados.apply(lambda x: calcular_distancia(x['LATITUD'], x['LONGITUD'], lat_c, lon_c), axis=1)
+
+        # Actualizar la distancia mínima
+        pisos_filtrados['distancia_centro_sanitario'] = np.minimum(pisos_filtrados['distancia_centro_sanitario'], distancias_centros)
+
+        # Imprimir las distancias calculadas para depuración
+       # for index, distancia in enumerate(distancias_centros):
+        #    st.write(f"Distancia desde {pisos_filtrados.iloc[index]['titulo']} a centro sanitario: {distancia:.2f} metros.")
+
+    # Filtrar los pisos según la distancia máxima a centros sanitarios
+    pisos_filtrados = pisos_filtrados[pisos_filtrados['distancia_centro_sanitario'] <= distancia_max_centro]
 
 # Mostrar resultados filtrados en la aplicación
 st.subheader("Pisos encontrados")
-st.write(pisos_filtrados[['titulo', 'localizacion', 'precio', 'metros_cuadrados', 'distancia_desfibrilador']])
+if not pisos_filtrados.empty:
+    st.write(pisos_filtrados[['titulo', 'localizacion', 'precio', 'metros_cuadrados', 'distancia_desfibrilador', 'distancia_centro_sanitario']])
+else:
+    st.warning("No se encontraron pisos que cumplan con los criterios de búsqueda.")
