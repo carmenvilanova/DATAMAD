@@ -104,12 +104,3 @@ if not pisos_filtrados.empty:
 else:
     st.warning("No se encontraron pisos que cumplan con los criterios de búsqueda.")
 
-# Agregar estilo CSS para reducir el tamaño de la fuente en la tabla
-st.markdown(
-    """
-    <style>
-    .dataframe table { font-size: 10px; }
-    </style>
-    """, 
-    unsafe_allow_html=True
-)
