@@ -1,0 +1,291 @@
+ID;Título;Localización;Precio;numero_calle;metros_cuadrados;habitaciones;baños;parcela_m2;plaza_garaje;estado;orientacion;año_construccion;calefaccion;planta;ascensor;LATITUD;LONGITUD
+106330563;Dúplex en venta en calle de Montalbán, 11;Jerónimos;2700000.0;11.0;220.0;2.0;3.0;;True;Segunda mano/buen estado;sur;2020.0;Calefacción individual;;True;40°25'5.89'' N;3°41'31.67'' W
+97875752;Chalet adosado en venta en paseo de La Habana;Nueva España;3110000.0;;430.0;6.0;5.0;300.0;True;Segunda mano/buen estado;;1987.0;Gas natural;;;40°26'53.19'' N;3°41'24.16'' W
+106211397;Chalet adosado en venta en paseo de La Habana;Nueva España;3110000.0;;395.0;5.0;6.0;431.0;True;;sur;1987.0;Calefacción individual;;;40°26'53.19'' N;3°41'24.16'' W
+105501144;Piso en venta en calle de Castelló;Castellana;2250000.0;;230.0;3.0;3.0;;True;Segunda mano/buen estado;;;Gas natural;Planta 5ª exterior;True;40°25'20.65'' N;3°40'54.64'' W
+104281658;Casa o chalet independiente en venta en calle de Cambrils;Mirasierra;2460000.0;;753.0;7.0;6.0;750.0;True;Segunda mano/buen estado;sur;;Calefacción individual;;;40°29'15.06'' N;3°42'31.53'' W
+102911946;Piso en venta en calle de Villanueva;Recoletos;3750000.0;;238.0;4.0;3.0;;;Segunda mano/buen estado;;;Gas natural;Planta 1ª exterior;True;40°25'22.57'' N;3°41'22.93'' W
+104952998;Piso en venta en calle del Duque de Sesto;Goya;1290000.0;;133.0;2.0;3.0;;;Segunda mano/buen estado;sur;1941.0;Gas;Planta 1ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+105449412;Piso en venta en calle de Castelló;Castellana;1195000.0;;117.0;2.0;2.0;;;Segunda mano/buen estado;;1980.0;Gas;Planta 4ª exterior;True;40°25'20.65'' N;3°40'54.64'' W
+103666203;Piso en venta en avenida de América, 37;Prosperidad;1100000.0;37.0;236.0;3.0;3.0;;True;Segunda mano/buen estado;sur;1968.0;Calefacción individual;Planta 2ª exterior;True;40°26'16.35'' N;3°40'39.02'' W
+106264579;Piso en venta en calle de Alfonso XII;Jerónimos;1550000.0;;165.0;3.0;2.0;;;;este;;;Planta 1ª exterior;True;40°24'54.99'' N;3°41'19.23'' W
+105505309;Piso en venta en calle de Núñez de Balboa;Castellana;3650000.0;;340.0;5.0;4.0;;;Segunda mano/buen estado;oeste;1954.0;Gas;Planta 3ª exterior;True;40°25'18.2'' N;3°40'59.4'' W
+105036254;Piso en venta en calle de Noblejas;Palacio;1595000.0;;164.0;3.0;3.0;;;Segunda mano/buen estado;;;;Planta 2ª exterior;True;40°25'0.46'' N;3°42'43.72'' W
+105725481;Piso en venta en calle de Hilarión Eslava;Gaztambide;1200000.0;;178.0;3.0;4.0;;;Segunda mano/buen estado;;1955.0;Calefacción central;Planta 4ª exterior;True;40°25'55.62'' N;3°43'1.05'' W
+96982668;Casa o chalet independiente en venta en calle de Zumárraga;El Plantío;2950000.0;;800.0;6.0;6.0;3563.0;True;Segunda mano/buen estado;;;;;;40°28'11.04'' N;3°48'56.66'' W
+105891810;Chalet adosado en venta en avenida del Papa Negro;Conde Orgaz-Piovera;1890000.0;;385.0;5.0;4.0;;True;Segunda mano/buen estado;oeste;1994.0;Gas natural;;;40°27'4.46'' N;3°38'0.44'' W
+105893822;Chalet pareado en venta en calle Virgen de los Rosales;Aravaca;2280000.0;;505.0;7.0;6.0;1127.0;True;;sur;1979.0;Gas natural;;;40°27'13.35'' N;3°46'11.39'' W
+105155727;Ático en venta en avenida de Machupichu;Conde Orgaz-Piovera;870000.0;;141.0;3.0;2.0;;True;Segunda mano/buen estado;este;1996.0;Gas natural;Planta 4ª exterior;True;40°27'19.63'' N;3°37'24.69'' W
+105122568;Piso en venta en calle de Goya;Goya;3600000.0;;379.0;5.0;4.0;;;Segunda mano/buen estado;sur;;Calefacción central;Planta 3ª exterior;True;40°25'33.09'' N;3°41'22.57'' W
+103910133;Casa o chalet independiente en venta en calle de Darío Aparicio;Valdemarín;3500000.0;;749.0;7.0;10.0;2987.0;True;Segunda mano/buen estado;;2003.0;;;;40°27'52.7'' N;3°45'57.07'' W
+103997327;Piso en venta en calle de Ayala;Goya;2630000.0;;306.0;5.0;4.0;;;Segunda mano/buen estado;este;;Calefacción central;Planta 4ª exterior;True;40°25'40.97'' N;3°41'20.3'' W
+103365843;Ático en venta en calle de Mesonero Romanos, 4;Sol;1080000.0;4.0;147.0;4.0;3.0;;;Segunda mano/buen estado;este;1900.0;Calefacción individual;Planta 5ª exterior;True;40°25'8.57'' N;3°42'17.57'' W
+105197920;Piso en venta en plaza Manolete;Cuatro Caminos;1175000.0;;165.0;3.0;3.0;;True;Segunda mano/buen estado;;1967.0;Calefacción central;Planta 15ª exterior;True;40°27'15.13'' N;3°41'28.99'' W
+104499449;Piso en venta en calle de Goya;Goya;3600000.0;;379.0;5.0;5.0;;;Segunda mano/buen estado;sur;1955.0;Calefacción individual;Planta 3ª exterior;True;40°25'33.09'' N;3°41'22.57'' W
+105070649;Casa o chalet independiente en venta en calle de Cambrils, 3 --b;Mirasierra;2460000.0;3.0;753.0;7.0;6.0;750.0;True;Segunda mano/buen estado;este;2002.0;Gas natural;;;40°29'15.06'' N;3°42'31.53'' W
+101792453;Chalet pareado en venta en calle Virgen de los Rosales;Aravaca;2280000.0;;505.0;7.0;5.0;1127.0;True;Segunda mano/buen estado;;1997.0;;;;40°27'13.35'' N;3°46'11.39'' W
+106330563;Dúplex en venta en calle de Montalbán, 11;Jerónimos;2700000.0;11.0;220.0;2.0;3.0;;True;Segunda mano/buen estado;sur;2020.0;Calefacción individual;;True;40°25'5.89'' N;3°41'31.67'' W
+97875752;Chalet adosado en venta en paseo de La Habana;Nueva España;3110000.0;;430.0;6.0;5.0;300.0;True;Segunda mano/buen estado;;1987.0;Gas natural;;;40°26'53.19'' N;3°41'24.16'' W
+105505309;Piso en venta en calle de Núñez de Balboa;Castellana;3650000.0;;340.0;5.0;4.0;;;Segunda mano/buen estado;oeste;1954.0;Gas;Planta 3ª exterior;True;40°25'18.2'' N;3°40'59.4'' W
+101792453;Chalet pareado en venta en calle Virgen de los Rosales;Aravaca;2280000.0;;505.0;7.0;5.0;1127.0;True;Segunda mano/buen estado;;1997.0;;;;40°27'13.35'' N;3°46'11.39'' W
+103910133;Casa o chalet independiente en venta en calle de Darío Aparicio;Valdemarín;3500000.0;;749.0;7.0;10.0;2987.0;True;Segunda mano/buen estado;;2003.0;;;;40°27'52.7'' N;3°45'57.07'' W
+104952998;Piso en venta en calle del Duque de Sesto;Goya;1290000.0;;133.0;2.0;3.0;;;Segunda mano/buen estado;sur;1941.0;Gas;Planta 1ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+105893822;Chalet pareado en venta en calle Virgen de los Rosales;Aravaca;2280000.0;;505.0;7.0;6.0;1127.0;True;;sur;1979.0;Gas natural;;;40°27'13.35'' N;3°46'11.39'' W
+105891810;Chalet adosado en venta en avenida del Papa Negro;Conde Orgaz-Piovera;1890000.0;;385.0;5.0;4.0;;True;Segunda mano/buen estado;oeste;1994.0;Gas natural;;;40°27'4.46'' N;3°38'0.44'' W
+96982668;Casa o chalet independiente en venta en calle de Zumárraga;El Plantío;2950000.0;;800.0;6.0;6.0;3563.0;True;Segunda mano/buen estado;;;;;;40°28'11.04'' N;3°48'56.66'' W
+105036254;Piso en venta en calle de Noblejas;Palacio;1595000.0;;164.0;3.0;3.0;;;Segunda mano/buen estado;;;;Planta 2ª exterior;True;40°25'0.46'' N;3°42'43.72'' W
+105449412;Piso en venta en calle de Castelló;Castellana;1195000.0;;117.0;2.0;2.0;;;Segunda mano/buen estado;;1980.0;Gas;Planta 4ª exterior;True;40°25'20.65'' N;3°40'54.64'' W
+102911946;Piso en venta en calle de Villanueva;Recoletos;3750000.0;;238.0;4.0;3.0;;;Segunda mano/buen estado;;;Gas natural;Planta 1ª exterior;True;40°25'22.57'' N;3°41'22.93'' W
+105155727;Ático en venta en avenida de Machupichu;Conde Orgaz-Piovera;870000.0;;141.0;3.0;2.0;;True;Segunda mano/buen estado;este;1996.0;Gas natural;Planta 4ª exterior;True;40°27'19.63'' N;3°37'24.69'' W
+103666203;Piso en venta en avenida de América, 37;Prosperidad;1100000.0;37.0;236.0;3.0;3.0;;True;Segunda mano/buen estado;sur;1968.0;Calefacción individual;Planta 2ª exterior;True;40°26'16.35'' N;3°40'39.02'' W
+106264579;Piso en venta en calle de Alfonso XII;Jerónimos;1550000.0;;165.0;3.0;2.0;;;;este;;;Planta 1ª exterior;True;40°24'54.99'' N;3°41'19.23'' W
+105070649;Casa o chalet independiente en venta en calle de Cambrils, 3 --b;Mirasierra;2460000.0;3.0;753.0;7.0;6.0;750.0;True;Segunda mano/buen estado;este;2002.0;Gas natural;;;40°29'15.06'' N;3°42'31.53'' W
+105501144;Piso en venta en calle de Castelló;Castellana;2250000.0;;230.0;3.0;3.0;;True;Segunda mano/buen estado;;;Gas natural;Planta 5ª exterior;True;40°25'20.65'' N;3°40'54.64'' W
+103365843;Ático en venta en calle de Mesonero Romanos, 4;Sol;1080000.0;4.0;147.0;4.0;3.0;;;Segunda mano/buen estado;este;1900.0;Calefacción individual;Planta 5ª exterior;True;40°25'8.57'' N;3°42'17.57'' W
+105197920;Piso en venta en plaza Manolete;Cuatro Caminos;1175000.0;;165.0;3.0;3.0;;True;Segunda mano/buen estado;;1967.0;Calefacción central;Planta 15ª exterior;True;40°27'15.13'' N;3°41'28.99'' W
+104499449;Piso en venta en calle de Goya;Goya;3600000.0;;379.0;5.0;5.0;;;Segunda mano/buen estado;sur;1955.0;Calefacción individual;Planta 3ª exterior;True;40°25'33.09'' N;3°41'22.57'' W
+105725481;Piso en venta en calle de Hilarión Eslava;Gaztambide;1200000.0;;178.0;3.0;4.0;;;Segunda mano/buen estado;;1955.0;Calefacción central;Planta 4ª exterior;True;40°25'55.62'' N;3°43'1.05'' W
+106211397;Chalet adosado en venta en paseo de La Habana;Nueva España;3110000.0;;395.0;5.0;6.0;431.0;True;;sur;1987.0;Calefacción individual;;;40°26'53.19'' N;3°41'24.16'' W
+104281658;Casa o chalet independiente en venta en calle de Cambrils;Mirasierra;2460000.0;;753.0;7.0;6.0;750.0;True;Segunda mano/buen estado;sur;;Calefacción individual;;;40°29'15.06'' N;3°42'31.53'' W
+105122568;Piso en venta en calle de Goya;Goya;3600000.0;;379.0;5.0;4.0;;;Segunda mano/buen estado;sur;;Calefacción central;Planta 3ª exterior;True;40°25'33.09'' N;3°41'22.57'' W
+103997327;Piso en venta en calle de Ayala;Goya;2630000.0;;306.0;5.0;4.0;;;Segunda mano/buen estado;este;;Calefacción central;Planta 4ª exterior;True;40°25'40.97'' N;3°41'20.3'' W
+104613472;Piso en venta en calle de Francisco de Rojas;Trafalgar;2400000.0;;227.0;3.0;3.0;;;Segunda mano/buen estado;oeste;2020.0;Gas natural;Planta 3ª exterior;True;40°25'43.51'' N;3°41'58.67'' W
+106158684;Piso en venta en calle del Conde de Peñalver;Goya;2300000.0;;170.0;3.0;2.0;;;;;;Gas natural;Planta 4ª exterior;True;40°25'30.02'' N;3°40'33.26'' W
+105829686;Piso en venta en calle de la Povedilla;Goya;889000.0;;94.0;3.0;2.0;;;Segunda mano/buen estado;norte;1940.0;Calefacción central;Planta 4ª interior;True;40°26'20.5'' N;3°39'58.55'' W
+105924592;Piso en venta en calle del Alcalde Sainz de Baranda;Ibiza;895000.0;;115.0;3.0;2.0;;True;;oeste;;Gas natural;Planta 5ª interior;True;40°25'1.93'' N;3°40'41.2'' W
+105521069;Piso en venta en calle de Noblejas;Palacio;1595000.0;;164.0;3.0;3.0;;;Segunda mano/buen estado;norte;1989.0;Calefacción individual;Planta 2ª exterior;True;40°25'0.46'' N;3°42'43.72'' W
+102711209;Piso en venta en Carrera de San Jerónimo;Sol;2350000.0;;218.0;4.0;4.0;;;Segunda mano/buen estado;;1920.0;Gas natural;Planta 5ª exterior;True;40°25'0.43'' N;3°42'7.55'' W
+106002365;Piso en venta en calle de Meléndez Valdés;Gaztambide;625000.0;;80.0;3.0;;;;Segunda mano/buen estado;sur;;Calefacción central;Planta 3ª interior;True;40°25'58.07'' N;3°42'33.29'' W
+106232915;Piso en venta en calle de Santiago Bernabéu;El Viso;1550000.0;;230.0;6.0;3.0;;True;;;1963.0;Calefacción central;Planta 3ª exterior;True;40°27'2.25'' N;3°41'22.89'' W
+104234563;Piso en venta en calle de Villalar;Recoletos;2490000.0;;207.0;4.0;5.0;;;Segunda mano/buen estado;oeste;1900.0;Calefacción individual;Planta 5ª exterior;True;40°25'14.81'' N;3°41'24.54'' W
+105897932;Dúplex en venta en calle de La Masó;Mirasierra;1500000.0;;320.0;5.0;3.0;;True;Segunda mano/buen estado;este;;Calefacción central;Planta 6ª exterior;True;40°29'46'' N;3°42'20.39'' W
+104544416;Piso en venta en calle de Lope de Rueda;Goya;660000.0;;62.0;2.0;2.0;;;Segunda mano/buen estado;;;;Planta 4ª interior;True;40°25'25.62'' N;3°40'37.98'' W
+105392078;Piso en venta en calle de Hermosilla;Goya;1420000.0;;115.0;2.0;3.0;;;Segunda mano/buen estado;;1930.0;Gas natural;Planta 1ª exterior;True;40°25'36.02'' N;3°41'21.57'' W
+105510209;Piso en venta en calle de Serrano;Castellana;4400000.0;;306.0;4.0;5.0;;;Segunda mano/buen estado;oeste;;;Planta 3ª exterior;True;40°25'14.99'' N;3°41'19.64'' W
+105436920;Piso en venta en calle de Alcalá;Goya;1125000.0;;123.0;2.0;2.0;;;;;1910.0;Gas;Planta 2ª exterior;True;40°25'1.98'' N;3°42'8.09'' W
+105949655;Piso en venta en calle de la Povedilla;Goya;889000.0;;98.0;3.0;2.0;;;Segunda mano/buen estado;sur;1940.0;Calefacción individual;Planta 4ª interior;True;40°26'20.5'' N;3°39'58.55'' W
+106093199;Piso en venta en calle de María de las Mercedes de Borbón;Valdebebas - Valdefuentes;875000.0;;134.0;3.0;2.0;;True;Segunda mano/buen estado;;2022.0;Calefacción central;Planta 1ª exterior;True;40°29'3.5'' N;3°37'1.54'' W
+104252638;Piso en venta en calle de García de Paredes;Trafalgar;1990000.0;;268.0;4.0;4.0;;;Segunda mano/buen estado;;1950.0;Calefacción central;;True;40°26'13.99'' N;3°42'14'' W
+106135852;Piso en venta en avenida de América;Guindalera;1290000.0;;237.0;4.0;3.0;;True;Segunda mano/buen estado;;;Calefacción central;Planta 9ª exterior;True;40°26'16.35'' N;3°40'39.02'' W
+106091596;Piso en venta en calle del General Díaz Porlier;Lista;675000.0;;61.0;2.0;2.0;;;Segunda mano/buen estado;este;1948.0;Calefacción central;;True;40°25'27.51'' N;3°40'38.6'' W
+105386768;Piso en venta en calle de Castelló;Castellana;1499000.0;;170.0;3.0;3.0;;;Segunda mano/buen estado;;;Gas;Planta 1ª interior;True;40°25'20.65'' N;3°40'54.64'' W
+105850524;Ático en venta en calle de Luisa Fernanda;Argüelles;1095000.0;;160.0;4.0;3.0;;;Segunda mano/buen estado;;2006.0;;;True;40°25'36.57'' N;3°42'50.47'' W
+103839118;Piso en venta en calle de Alberto Bosch;Jerónimos;2500000.0;;227.0;3.0;3.0;;;Segunda mano/buen estado;sur;;Gas natural;Planta 1ª exterior;True;40°24'48.5'' N;3°41'28.36'' W
+106151385;Dúplex en venta en calle de Santiago;Palacio;1600000.0;;216.0;2.0;3.0;;;Segunda mano/buen estado;sur;1880.0;Calefacción individual;Planta 5ª exterior;True;40°24'57.9'' N;3°42'35.06'' W
+104671284;Piso en venta en plaza de los Sagrados Corazones;El Viso;1800000.0;;268.0;5.0;5.0;;True;;este;1964.0;;Planta 2ª exterior;True;40°24'22.33'' N;3°44'13.99'' W
+105501862;Piso en venta en calle de Trafalgar;Trafalgar;1190000.0;;135.0;3.0;2.0;;;Segunda mano/buen estado;este;;Gas natural;Planta 3ª exterior;True;40°25'50.96'' N;3°42'1.41'' W
+106313540;Chalet pareado en venta en calle del Oria, 16;El Viso;3500000.0;16.0;308.0;6.0;6.0;148.0;;Segunda mano/buen estado;oeste;1968.0;Gas natural;;;40°26'51.38'' N;3°41'1.37'' W
+105236114;Piso en venta en calle de Serrano;Bernabéu-Hispanoamérica;1950000.0;;330.0;5.0;4.0;;True;Segunda mano/buen estado;este;;Calefacción central;Planta 5ª exterior;True;40°25'14.99'' N;3°41'19.64'' W
+105457544;Piso en venta en calle del Duque de Sesto;Goya;1290000.0;;133.0;2.0;2.0;;;Segunda mano/buen estado;sur;;Calefacción central;Planta 1ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+106139309;Piso en venta en calle de Santiago Bernabéu;El Viso;1550000.0;;230.0;4.0;3.0;;True;Segunda mano/buen estado;este;;Calefacción central;Planta 3ª exterior;True;40°27'2.25'' N;3°41'22.89'' W
+103610280;Piso en venta en calle del General Díaz Porlier;Goya;1380000.0;;119.0;3.0;2.0;;;Segunda mano/buen estado;oeste;1930.0;Gas;Planta 4ª exterior;True;40°25'27.51'' N;3°40'38.6'' W
+104440887;Piso en venta en paseo del General Martínez Campos;Almagro;2295000.0;;206.0;4.0;4.0;;;Segunda mano/buen estado;sur;1950.0;Gas;Planta 3ª interior;True;40°26'6.4'' N;3°41'53.82'' W
+105774021;Piso en venta en calle de Morejón;Almagro;295000.0;;37.0;;;;;Segunda mano/buen estado;;1950.0;Calefacción individual;;True;40°26'15.63'' N;3°41'57.31'' W
+105379068;Piso en venta en calle de Bolivia;Nueva España;680000.0;;99.0;3.0;2.0;;;Segunda mano/buen estado;oeste;1962.0;Calefacción individual;Planta 3ª exterior;True;40°27'21.18'' N;3°40'41.52'' W
+106324131;Piso en venta en calle del General Díaz Porlier;Goya;1100000.0;;99.0;2.0;3.0;;;Segunda mano/buen estado;este;;Gas natural;Planta 1ª exterior;True;40°25'27.51'' N;3°40'38.6'' W
+102248221;Piso en venta en calle de Francisco Silvela;El Viso;785000.0;;120.0;3.0;2.0;;;Segunda mano/buen estado;;1933.0;Calefacción central;;True;40°25'42.93'' N;3°40'10.33'' W
+106395772;Piso en venta en calle de la Esperanza;Lavapiés-Embajadores;239000.0;;41.0;;;;;Segunda mano/buen estado;;1890.0;;Planta 1ª exterior;True;40°24'36.94'' N;3°42'2.81'' W
+103687885;Piso en venta en calle del Mesón de Paredes;Lavapiés-Embajadores;299000.0;;76.0;3.0;;;True;;este;1905.0;Gas natural;Planta 2ª exterior;True;40°24'42.72'' N;3°42'18.9'' W
+106155964;Piso en venta en calle de Martín de los Heros;Argüelles;680000.0;;110.0;4.0;2.0;;;;este;1940.0;Gas natural;Planta 1ª exterior;True;40°25'26.05'' N;3°42'47.42'' W
+105107064;Piso en venta en calle de Viriato;Almagro;1680000.0;;186.0;3.0;3.0;;;Segunda mano/buen estado;;;Calefacción central;Planta 3ª exterior;True;40°26'9.94'' N;3°42'14.05'' W
+105105053;Piso en venta en avenida de Burgos;Castilla;600000.0;;123.0;4.0;2.0;;;Segunda mano/buen estado;este;1988.0;Gas natural;Planta 13ª exterior;True;40°28'9.77'' N;3°40'36.82'' W
+106300829;Piso en venta en calle de García de Paredes;Trafalgar;1990000.0;;268.0;4.0;3.0;;;Segunda mano/buen estado;sur;;Gas natural;Planta 3ª exterior;True;40°26'13.99'' N;3°42'14'' W
+105843197;Piso en venta en calle de la Povedilla;Goya;889000.0;;94.0;3.0;2.0;;;Segunda mano/buen estado;norte;;Calefacción central;Planta 4ª interior;True;40°26'20.5'' N;3°39'58.55'' W
+104797646;Piso en venta en calle de Hermosilla;Fuente del Berro;624000.0;;107.0;2.0;2.0;;;Segunda mano/buen estado;norte;1960.0;Calefacción central;Planta 1ª exterior;True;40°25'36.02'' N;3°41'21.57'' W
+105514440;Piso en venta en calle de Santa Hortensia;Prosperidad;524000.0;;79.0;3.0;;;;Segunda mano/buen estado;;1970.0;Calefacción individual;Planta 1ª exterior;True;40°26'45.79'' N;3°40'13'' W
+106480532;Piso en venta en calle de Núñez de Balboa;Recoletos;3380000.0;;232.0;3.0;3.0;;True;Segunda mano/buen estado;;;Calefacción central;Planta 1ª exterior;True;40°25'18.2'' N;3°40'59.4'' W
+106364066;Piso en venta en calle Mayor;Palacio;1244000.0;;203.0;2.0;2.0;;;Segunda mano/buen estado;sur;1910.0;Gas natural;Planta 3ª exterior;True;40°24'59.29'' N;3°42'16.76'' W
+105962129;Piso en venta en calle de Narváez;Ibiza;864900.0;;134.0;3.0;2.0;;;Segunda mano/buen estado;;;Gas;Planta 6ª interior;True;40°25'28.34'' N;3°40'32'' W
+105168585;Piso en venta en calle de José Domingo Rus;Canillas;455000.0;;94.0;3.0;2.0;;;Segunda mano/buen estado;sur;1970.0;Eléctrica;Planta 1ª exterior;True;40°27'43.44'' N;3°37'59.47'' W
+105265929;Piso en venta en calle de Monteleón;Trafalgar;400000.0;;52.0;2.0;;;;Segunda mano/buen estado;norte;1935.0;Calefacción individual;Planta 3ª interior;True;40°25'37.97'' N;3°42'18.89'' W
+105890453;Ático en venta en calle de Juan Sánchez;Peñagrande;830000.0;;184.0;4.0;3.0;;True;Segunda mano/buen estado;este;2006.0;Gas natural;Planta 5ª exterior;True;40°28'28.67'' N;3°43'12.76'' W
+106479003;Dúplex en venta en calle de la Virgen de los Peligros;Sol;2250000.0;;189.0;2.0;2.0;;;Segunda mano/buen estado;;;Calefacción individual;Planta 5ª exterior;True;40°25'5.76'' N;3°41'58.48'' W
+105413336;Piso en venta en calle de Lavapiés;Lavapiés-Embajadores;339000.0;;72.0;2.0;;;;Segunda mano/buen estado;este;1970.0;Eléctrica;Planta 4ª exterior;True;40°24'44.05'' N;3°42'11.24'' W
+106144167;Piso en venta en calle de la Ballesta;Malasaña-Universidad;291000.0;;37.0;;;;;Segunda mano/buen estado;;1880.0;Eléctrica;Planta 1ª interior;True;40°25'16.31'' N;3°42'13.22'' W
+105845137;Piso en venta en calle de Belén;Chueca-Justicia;580000.0;;74.0;;;;;Segunda mano/buen estado;;1905.0;Eléctrica;Planta 1ª interior;True;40°25'27.92'' N;3°41'49.53'' W
+105639958;Piso en venta en calle de Fuencarral, 106;Chueca-Justicia;1655000.0;106.0;220.0;5.0;2.0;;;Segunda mano/buen estado;oeste;;Gas natural;Planta 1ª exterior;True;40°25'12.98'' N;3°42'5.96'' W
+106135117;Piso en venta en plaza del Conde del Valle de Súchil;Arapiles;1800000.0;;296.0;5.0;7.0;;;Segunda mano/buen estado;oeste;1966.0;Calefacción central;Planta 3ª exterior;True;40°25'48.96'' N;3°42'27.59'' W
+104154459;Piso en venta en calle de Maldonado;Castellana;3500000.0;;316.0;3.0;4.0;;;Segunda mano/buen estado;sur;1925.0;Gas;Planta 3ª exterior;True;40°26'2.78'' N;3°41'10.13'' W
+105976873;Dúplex en venta en calle de Toledo;Palacio;805500.0;;126.0;2.0;2.0;;;Segunda mano/buen estado;oeste;;Calefacción central;;True;40°24'53.87'' N;3°42'27.34'' W
+106337200;Piso en venta en calle de Gonzalo de Córdoba, 22;Trafalgar;1370000.0;22.0;140.0;3.0;4.0;;;Segunda mano/buen estado;oeste;1910.0;Gas;Planta 2ª exterior;True;40°25'56.08'' N;3°42'12.43'' W
+105767996;Piso en venta en calle de Esparteros;Sol;1790000.0;;214.0;2.0;2.0;;;Segunda mano/buen estado;;1880.0;Eléctrica;Planta 4ª exterior;True;40°24'58.79'' N;3°42'17.99'' W
+105814599;Piso en venta en paseo de San Francisco de Sales;Vallehermoso;1710000.0;;228.0;3.0;4.0;;;Segunda mano/buen estado;sur;1969.0;Gas;Planta 13ª exterior;True;40°26'23.41'' N;3°43'1.52'' W
+106272590;Piso en venta en calle de Viriato, 50;Almagro;1950000.0;50.0;136.0;2.0;2.0;;;Segunda mano/buen estado;oeste;1960.0;Calefacción central;Planta 6ª exterior;True;40°26'9.94'' N;3°42'14.05'' W
+106069307;Piso en venta en calle del Doctor Castelo;Ibiza;759000.0;;70.0;2.0;2.0;;;Segunda mano/buen estado;norte;1930.0;Gas natural;Planta 3ª interior;True;40°25'14.19'' N;3°40'45.49'' W
+105289066;Chalet adosado en venta en avenida de la Osa Mayor;Aravaca;1248000.0;;450.0;5.0;5.0;300.0;True;Segunda mano/buen estado;oeste;1982.0;Calefacción individual;;;40°27'41.34'' N;3°46'24.41'' W
+106458828;Piso en venta en calle de Castelló;Castellana;2500000.0;;201.0;4.0;5.0;;;Segunda mano/buen estado;este;1964.0;Calefacción individual;Planta 1ª exterior;True;40°25'20.65'' N;3°40'54.64'' W
+105036875;Ático en venta en calle del General Pardiñas, 26;Goya;1090000.0;26.0;100.0;2.0;2.0;;;Segunda mano/buen estado;oeste;;;Planta 6ª exterior;True;40°25'25.62'' N;3°40'43.89'' W
+106459458;Dúplex en venta en calle de Montalbán;Jerónimos;2700000.0;;220.0;2.0;2.0;;True;Segunda mano/buen estado;sur;;Gas;;True;40°25'5.89'' N;3°41'31.67'' W
+104608513;Casa o chalet independiente en venta en paseo de La Habana;Nueva España;3110000.0;;430.0;5.0;5.0;;True;;;;;;;40°26'53.19'' N;3°41'24.16'' W
+105453336;Casa o chalet independiente en venta en calle Caléndula, 28;Valdebebas - Valdefuentes;1750000.0;28.0;425.0;5.0;6.0;;True;Segunda mano/buen estado;;2024.0;Calefacción individual;;;40°28'49.09'' N;3°37'51.45'' W
+106473746;Piso en venta en calle de Bravo Murillo;Arapiles;760000.0;;129.0;5.0;2.0;;;;este;1932.0;Gasoil;Planta 1ª exterior;True;40°26'2.63'' N;3°42'16.36'' W
+106454523;Dúplex en venta en calle de Rosario Pino;Cuzco-Castillejos;1490000.0;;217.0;3.0;2.0;;True;Segunda mano/buen estado;este;1978.0;;;True;40°27'42.91'' N;3°41'26.38'' W
+106408678;Piso en venta en calle de Lombía;Goya;1395000.0;;100.0;3.0;2.0;;;Segunda mano/buen estado;;;Calefacción individual;Planta 4ª exterior;True;40°25'33.6'' N;3°40'20.62'' W
+106213981;Piso en venta en calle del Duque de Sesto;Goya;1430000.0;;133.0;3.0;4.0;;;Segunda mano/buen estado;;;;Planta 1ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+104830815;Piso en venta en calle de Jorge Juan;Goya;1890000.0;;142.0;3.0;2.0;;;Segunda mano/buen estado;este;;Calefacción central;Planta 3ª exterior;True;40°25'26.5'' N;3°41'15.87'' W
+106413711;Piso en venta en calle de Jorge Juan;Goya;1354900.0;;144.0;2.0;2.0;;;Segunda mano/buen estado;sur;1957.0;Gas natural;Planta 2ª exterior;True;40°25'26.5'' N;3°41'15.87'' W
+105528916;Piso en venta en calle de José Ortega y Gasset;Castellana;7900000.0;;473.0;4.0;4.0;;True;Segunda mano/buen estado;sur;;Calefacción central;Planta 2ª exterior;True;40°25'50.37'' N;3°41'17.22'' W
+105611100;Piso en venta en calle de Francisco Silvela;Lista;1740000.0;;244.0;4.0;5.0;;True;Segunda mano/buen estado;oeste;;Calefacción central;Planta 4ª exterior;True;40°25'42.93'' N;3°40'10.33'' W
+105498972;Piso en venta en calle de Núñez de Balboa;Recoletos;850500.0;;81.0;;;;;Segunda mano/buen estado;este;1974.0;Calefacción central;Planta 4ª exterior;True;40°25'18.2'' N;3°40'59.4'' W
+105832670;Piso en venta en calle de Claudio Coello;Recoletos;1480000.0;;144.0;2.0;2.0;;;Segunda mano/buen estado;;;Gas natural;Planta 7ª exterior;True;40°25'13.95'' N;3°41'14.5'' W
+105935279;Piso en venta en calle de Alcalá;Recoletos;3895000.0;;242.0;4.0;5.0;;;Segunda mano/buen estado;sur;;Gas;Planta 3ª exterior;True;40°25'1.98'' N;3°42'8.09'' W
+105915868;Piso en venta en calle del Príncipe de Vergara;Recoletos;1830000.0;;175.0;2.0;3.0;;;Segunda mano/buen estado;oeste;;Calefacción central;Planta 1ª exterior;True;40°25'22.3'' N;3°40'49.93'' W
+105577336;Chalet pareado en venta en calle Condesa Trifaldi;Montecarmelo;1695000.0;;350.0;6.0;6.0;268.0;True;Segunda mano/buen estado;sur;;;;;40°30'23.2'' N;3°41'13.07'' W
+105928411;Piso en venta en calle de Alcántara;Lista;730000.0;;67.0;2.0;3.0;;;Segunda mano/buen estado;oeste;1931.0;Gas natural;Planta 2ª interior;True;40°25'32.56'' N;3°40'26.93'' W
+105728610;Piso en venta en calle San Martín de Porres, 43;Ciudad Universitaria;699000.0;43.0;140.0;4.0;3.0;;True;;sur;1971.0;;Planta 1ª exterior;True;40°27'56.68'' N;3°43'37.46'' W
+106094606;Piso en venta en calle de Ibiza;Ibiza;530000.0;;70.0;2.0;2.0;;;;este;1968.0;Gas natural;Planta 5ª interior;True;40°25'6.74'' N;3°40'42.34'' W
+106268985;Piso en venta en calle de Rafael Calvo;Almagro;1790000.0;;180.0;5.0;3.0;;True;Segunda mano/buen estado;sur;1980.0;;Planta 4ª exterior;True;40°26'1.17'' N;3°41'50.94'' W
+105971070;Piso en venta en calle de Santa Cruz de Marcenado;Malasaña-Universidad;1050000.0;;156.0;4.0;3.0;;;Segunda mano/buen estado;;1948.0;Gas;Planta 5ª exterior;True;40°25'43.9'' N;3°42'24.36'' W
+106269928;Piso en venta en calle de Santa Engracia;Almagro;1590000.0;;119.0;3.0;3.0;;;Segunda mano/buen estado;;;;Planta 4ª exterior;True;40°25'41.55'' N;3°41'45.67'' W
+106175815;Piso en venta en calle de Claudio Coello;Castellana;1700000.0;;171.0;2.0;3.0;;;Segunda mano/buen estado;oeste;1950.0;Calefacción individual;Planta 3ª exterior;True;40°25'13.95'' N;3°41'14.5'' W
+106172077;Piso en venta en calle de Lope de Rueda;Ibiza;1679000.0;;133.0;2.0;2.0;;;Segunda mano/buen estado;oeste;1933.0;Gas natural;Planta 4ª exterior;True;40°25'25.62'' N;3°40'37.98'' W
+105750570;Piso en venta en calle de José Abascal;Almagro;3400000.0;;366.0;6.0;5.0;;True;Segunda mano/buen estado;;;Calefacción central;Planta 5ª exterior;True;40°26'19.39'' N;3°42'7.7'' W
+106284616;Piso en venta en plaza de Tirso de Molina;Lavapiés-Embajadores;840000.0;;196.0;3.0;3.0;;;Segunda mano/buen estado;norte;2005.0;Gas natural;Planta 3ª exterior;True;40°24'44.45'' N;3°42'12.11'' W
+105696027;Piso en venta en calle de Núñez de Balboa;Recoletos;1789000.0;;152.0;2.0;2.0;;True;Segunda mano/buen estado;este;1980.0;Gas;Planta 2ª interior;True;40°25'18.2'' N;3°40'59.4'' W
+105266149;Piso en venta en calle de Castelló;Castellana;1329000.0;;126.0;2.0;2.0;;;Segunda mano/buen estado;oeste;1939.0;;Planta 4ª interior;True;40°25'20.65'' N;3°40'54.64'' W
+105894081;Ático en venta en calle de Alfonso VI;Palacio;395000.0;;53.0;;;;;Segunda mano/buen estado;oeste;1910.0;Gas natural;Planta 5ª exterior;True;40°24'46.97'' N;3°42'43.66'' W
+106363631;Piso en venta en calle de la Fuente del Berro;Goya;390000.0;;77.0;3.0;;;;Segunda mano/buen estado;;1930.0;Gas natural;;True;40°25'36.81'' N;3°40'14.31'' W
+106128200;Casa o chalet independiente en venta en calle de Antares;Aravaca;2898000.0;;825.0;6.0;7.0;1031.0;True;Segunda mano/buen estado;;2005.0;Eléctrica;;;40°27'43.14'' N;3°47'22.35'' W
+106342284;Piso en venta en avenida del Talgo, 192;Aravaca;780000.0;192.0;135.0;3.0;2.0;;;Segunda mano/buen estado;norte;2000.0;Gas natural;Planta 4ª exterior;True;40°26'49.46'' N;3°46'39.59'' W
+104066594;Dúplex en venta en calle de Mejía Lequerica;Chueca-Justicia;4500000.0;;489.0;7.0;4.0;;;Segunda mano/buen estado;este;1922.0;Calefacción individual;Planta 1ª exterior;True;40°25'33.88'' N;3°41'51.08'' W
+105097251;Piso en venta en avenida de la Reina Victoria;Vallehermoso;300000.0;;150.0;4.0;2.0;;;Segunda mano/buen estado;oeste;;Gas natural;Planta 7ª exterior;True;40°26'48.08'' N;3°42'15.85'' W
+103881514;Chalet adosado en venta en calle Diplomáticos s/n;Aravaca;1327000.0;;301.0;5.0;3.0;;True;Segunda mano/buen estado;sur;2003.0;Gas natural;;;40°27'14.34'' N;3°46'32.72'' W
+106156912;Ático en venta en calle Ardales s/n;Aravaca;1298000.0;;280.0;3.0;4.0;;True;Segunda mano/buen estado;oeste;2002.0;Calefacción individual;Planta 2ª exterior;True;40°27'35.2'' N;3°46'58.99'' W
+106237224;Piso en venta en calle del General Pardiñas;Goya;1975000.0;;155.0;3.0;3.0;;;Segunda mano/buen estado;oeste;1920.0;Gas;Planta 4ª exterior;True;40°25'25.62'' N;3°40'43.89'' W
+104246335;Chalet pareado en venta en calle de Gabriel y Galán;Ciudad Jardín;1750000.0;;288.0;4.0;3.0;205.0;True;;;;Gas natural;;;40°27'7.18'' N;3°40'15.8'' W
+101733675;Casa o chalet independiente en venta en calle Araiz;Aravaca;1250000.0;;150.0;3.0;3.0;157.0;True;Segunda mano/buen estado;este;1960.0;Gas natural;;;40°27'36.39'' N;3°46'42.4'' W
+105460970;Piso en venta en calle del Doctor Esquerdo, 18;Goya;1090000.0;18.0;128.0;2.0;2.0;;;Segunda mano/buen estado;este;1964.0;Calefacción central;Planta 8ª exterior;True;40°25'39.3'' N;3°40'5.52'' W
+104945313;Piso en venta en calle de Toledo;Palacio;460000.0;;80.0;;2.0;;;Segunda mano/buen estado;;2014.0;;Planta 3ª exterior;True;40°24'53.87'' N;3°42'27.34'' W
+104787046;Piso en venta en calle de Pizarro, 20;Malasaña-Universidad;665000.0;20.0;131.0;2.0;2.0;;;Segunda mano/buen estado;;;Bomba de frío/calor;Planta 2ª exterior;True;40°25'21.39'' N;3°42'22.85'' W
+106104989;Piso en venta en calle del Pintor Juan Gris;Cuzco-Castillejos;1499700.0;;211.0;3.0;3.0;;;Segunda mano/buen estado;norte;1965.0;Calefacción central;Planta 2ª exterior;True;40°27'26.89'' N;3°41'26.98'' W
+105684691;Dúplex en venta en calle de Manuel Gutiérrez Mellado;Valdebebas - Valdefuentes;995000.0;;160.0;3.0;3.0;;True;Segunda mano/buen estado;oeste;2018.0;Calefacción individual;Planta 8ª exterior;True;40°29'35.82'' N;3°37'12.67'' W
+106226512;Piso en venta en calle de Modesto Lafuente, 65;Nuevos Ministerios-Ríos Rosas;1499000.0;65.0;157.0;3.0;3.0;;;Segunda mano/buen estado;este;1945.0;Gas natural;Planta 5ª exterior;True;40°26'7.28'' N;3°41'47.75'' W
+105367340;Piso en venta en calle del León;Huertas-Cortes;585000.0;;87.0;3.0;;;;Segunda mano/buen estado;sur;1890.0;Gas natural;Planta 2ª exterior;True;40°24'53.24'' N;3°41'54.46'' W
+106324226;Piso en venta en avenida de Francisco Pi y Margall;Sanchinarro;535000.0;;91.0;2.0;2.0;;True;Segunda mano/buen estado;;;Gas natural;Planta 3ª exterior;True;40°29'3.76'' N;3°38'35.38'' W
+106462276;Piso en venta en paseo de la Castellana;Recoletos;5050000.0;;298.0;4.0;5.0;;;Segunda mano/buen estado;;;;Planta 5ª exterior;True;40°24'16.53'' N;3°36'53.06'' W
+105939781;Piso en venta en paseo de la Castellana;Cuzco-Castillejos;960000.0;;153.0;3.0;2.0;;;;este;1965.0;Calefacción central;Planta 2ª exterior;True;40°24'16.53'' N;3°36'53.06'' W
+106347974;Piso en venta en calle Isla Graciosa;Tres Olivos - Valverde;369000.0;;80.0;3.0;2.0;;;Segunda mano/buen estado;oeste;1971.0;Gas;Planta 4ª exterior;True;40°29'34.2'' N;3°41'10.45'' W
+101605287;Chalet adosado en venta en calle de Melchor Rodríguez;Aravaca;1240000.0;;231.0;5.0;4.0;192.0;;Segunda mano/buen estado;;1996.0;;;;40°27'13.65'' N;3°46'39.77'' W
+105609199;Piso en venta en calle de Víctor de la Serna;Bernabéu-Hispanoamérica;729000.0;;111.0;4.0;2.0;;;Segunda mano/buen estado;sur;;;Planta 10ª exterior;True;40°27'8.16'' N;3°40'26.67'' W
+103775576;Piso en venta en avenida de Concha Espina;El Viso;1250000.0;;194.0;4.0;3.0;;True;Segunda mano/buen estado;;;Calefacción individual;Planta 3ª exterior;True;40°27'7.74'' N;3°41'18.63'' W
+104567294;Piso en venta en calle de Pizarro, 13;Malasaña-Universidad;449000.0;13.0;74.0;2.0;;;;;este;1940.0;Gas natural;Planta 1ª exterior;True;40°25'21.39'' N;3°42'22.85'' W
+102337728;Piso en venta en calle Reina, 31;Chueca-Justicia;2220000.0;31.0;261.0;4.0;3.0;;;Segunda mano/buen estado;sur;1917.0;Gas;Planta 1ª exterior;True;40°25'13.97'' N;3°42'2.65'' W
+101399733;Chalet adosado en venta en calle Santa Elvira;Aravaca;865000.0;;238.0;4.0;4.0;296.0;True;;sur;1984.0;Gas natural;;;40°27'22.54'' N;3°47'37.18'' W
+106190483;Piso en venta en calle Duque de Tamames;San Juan Bautista;1450000.0;;215.0;5.0;3.0;;True;Segunda mano/buen estado;sur;1979.0;Calefacción central;Planta 1ª exterior;True;40°27'2.77'' N;3°39'10.56'' W
+103868199;Piso en venta en calle de María de las Mercedes de Borbón;Valdebebas - Valdefuentes;875000.0;;140.0;3.0;2.0;;True;Segunda mano/buen estado;este;2022.0;Gas natural;Planta 1ª exterior;True;40°29'3.5'' N;3°37'1.54'' W
+105289238;Piso en venta en calle de Artesa de Segre;Ciudad Universitaria;490000.0;;80.0;;;;True;Segunda mano/buen estado;oeste;;;;True;40°28'7.13'' N;3°43'44.23'' W
+103792977;Casa o chalet independiente en venta en calle Lamiaco;El Plantío;2950000.0;;580.0;6.0;8.0;2500.0;True;Segunda mano/buen estado;;1976.0;;;;40°28'22.75'' N;3°49'10.19'' W
+103868199;Piso en venta en calle de María de las Mercedes de Borbón;Valdebebas - Valdefuentes;875000.0;;140.0;3.0;2.0;;True;Segunda mano/buen estado;este;2022.0;Gas natural;Planta 1ª exterior;True;40°29'3.5'' N;3°37'1.54'' W
+92717047;Casa o chalet independiente en venta en calle del Maestro Ripoll;El Viso;4300000.0;;370.0;5.0;4.0;380.0;;;oeste;;;;;40°26'32.61'' N;3°41'24.01'' W
+105528344;Piso en venta en calle del Rollo;Palacio;890000.0;;115.0;2.0;2.0;;True;Segunda mano/buen estado;oeste;1850.0;Gas natural;Planta 1ª exterior;True;40°24'52.94'' N;3°42'38.61'' W
+105527162;Piso en venta en calle Arzobispo Morcillo, 14;La Paz;750000.0;14.0;160.0;4.0;2.0;;True;;sur;1991.0;Gas natural;Planta 5ª exterior;True;40°28'47.54'' N;3°41'18.24'' W
+105743974;Piso en venta en calle de Fuencarral;Chueca-Justicia;2560000.0;;257.0;4.0;4.0;;;Segunda mano/buen estado;oeste;1898.0;Gas natural;Planta 3ª exterior;True;40°25'12.98'' N;3°42'5.96'' W
+104437905;Dúplex en venta en calle de Numancia, 2;Bellas Vistas;1700000.0;2.0;350.0;4.0;3.0;;True;Segunda mano/buen estado;sur;1992.0;Calefacción individual;Planta 6ª exterior;True;40°27'11.08'' N;3°42'47.06'' W
+103355651;Piso en venta en calle de Játiva;Adelfas;670000.0;;105.0;3.0;2.0;;;Segunda mano/buen estado;;;Calefacción central;Planta 7ª exterior;True;40°23'58.21'' N;3°40'29.64'' W
+99095593;Ático en venta en calle Segovia;Palacio;1175000.0;;171.0;4.0;3.0;;;Segunda mano/buen estado;;1975.0;Gas natural;Planta 7ª exterior;True;40°24'49.1'' N;3°42'33.43'' W
+105368182;Piso en venta en avenida de Pío XII;Castilla;950000.0;;187.0;4.0;3.0;;True;;oeste;1975.0;Calefacción central;Planta 2ª exterior;True;40°27'39.01'' N;3°40'36.12'' W
+105109668;Piso en venta en plaza de los Sagrados Corazones;El Viso;1625000.0;;268.0;5.0;5.0;;True;Segunda mano/buen estado;este;;;Planta 6ª exterior;True;40°24'22.33'' N;3°44'13.99'' W
+105027138;Piso en venta en paseo de la Rinconada, 2;Aravaca;1500000.0;2.0;237.0;4.0;4.0;;True;;este;1968.0;Gas;Planta 3ª exterior;True;40°27'25.35'' N;3°45'37.63'' W
+105278937;Piso en venta en calle del Doctor Esquerdo;Adelfas;629000.0;;123.0;5.0;2.0;;;;oeste;;Gas natural;Planta 2ª exterior;True;40°25'39.3'' N;3°40'5.52'' W
+105773894;Piso en venta en plaza de la Cruz Verde;Palacio;798000.0;;125.0;;2.0;;;Segunda mano/buen estado;;;;Planta 1ª exterior;True;40°25'23.46'' N;3°42'26.06'' W
+106350154;Chalet adosado en venta en calle Valdivieso;Aravaca;480000.0;;116.0;3.0;2.0;;;;este;1962.0;Eléctrica;;;40°27'32.39'' N;3°46'49.08'' W
+105096645;Piso en venta en paseo de la Rinconada;Aravaca;1500000.0;;237.0;4.0;4.0;;True;Segunda mano/buen estado;;1968.0;;Planta 3ª exterior;True;40°27'25.35'' N;3°45'37.63'' W
+106280453;Piso en venta en calle de Daimiel;Los Cármenes;450000.0;;94.0;3.0;2.0;;;Segunda mano/buen estado;oeste;1962.0;Gas;Planta 4ª exterior;True;40°24'30.64'' N;3°43'21.94'' W
+106252040;Piso en venta en calle de Magallanes;Arapiles;990000.0;;164.0;4.0;3.0;;;;;;Gas;Planta 5ª interior;True;40°25'56.84'' N;3°42'19.35'' W
+105959710;Piso en venta en calle del Laurel;Acacias;539000.0;;105.0;3.0;2.0;;True;Segunda mano/buen estado;oeste;1961.0;Gas;Planta 4ª interior;True;40°24'14.15'' N;3°42'19.45'' W
+85829870;Casa o chalet independiente en venta en calle de la Madre de Dios;Nueva España;4500000.0;;552.0;6.0;7.0;406.0;True;Segunda mano/buen estado;oeste;;Calefacción individual;;;40°27'46.15'' N;3°40'28.27'' W
+105781276;Ático en venta en avenida del Planetario;Legazpi;899000.0;;222.0;2.0;2.0;;True;Segunda mano/buen estado;este;1995.0;Gas natural;Planta 8ª exterior;True;40°23'40.78'' N;3°40'48.06'' W
+106185285;Chalet adosado en venta en calle de Gascones;Peñagrande;1390000.0;;407.0;8.0;5.0;315.0;True;Segunda mano/buen estado;este;1980.0;Gas natural;;;40°28'36.73'' N;3°44'18.73'' W
+106037939;Ático en venta en calle de los Fundadores;Fuente del Berro;950000.0;;146.0;3.0;2.0;;True;;;;;Planta 5ª exterior;True;40°25'29.05'' N;3°40'6.11'' W
+103565392;Chalet adosado en venta en calle de Santolinas;Bernabéu-Hispanoamérica;1050000.0;;160.0;3.0;3.0;;;Segunda mano/buen estado;sur;1940.0;Calefacción central;;;40°27'16.16'' N;3°39'55.94'' W
+96157390;Piso en venta en calle de Recoletos s/n;Recoletos;2600000.0;;247.0;4.0;3.0;;;Segunda mano/buen estado;sur;;Gas natural;Planta 1ª exterior;True;40°25'20.33'' N;3°41'27.44'' W
+104602745;Piso en venta en calle de Argensola, 11;Chueca-Justicia;645000.0;11.0;74.0;2.0;;;;Segunda mano/buen estado;este;1910.0;Calefacción individual;Planta 2ª interior;True;40°25'29.1'' N;3°41'43.45'' W
+96292622;Casa o chalet independiente en venta en calle del Valle de Toranzo;Valdemarín;2500000.0;;761.0;11.0;10.0;2517.0;;Segunda mano/buen estado;;;;;;40°28'3.05'' N;3°47'41.64'' W
+104177407;Piso en venta en calle de Artesa de Segre;Ciudad Universitaria;490000.0;;80.0;;;;True;Segunda mano/buen estado;oeste;;Calefacción central;;True;40°28'7.13'' N;3°43'44.23'' W
+104356208;Piso en venta en calle de Ferraz;Argüelles;1890000.0;;316.0;4.0;3.0;;;;oeste;;Gas;Planta 3ª exterior;True;40°25'27.48'' N;3°42'58.57'' W
+106249087;Piso en venta en calle de Don Ramón de la Cruz;Goya;1050000.0;;117.0;2.0;2.0;;;Segunda mano/buen estado;norte;;Calefacción individual;Planta 3ª exterior;True;40°25'45.63'' N;3°41'12.61'' W
+102093483;Piso en venta en calle de la Academia;Jerónimos;1200000.0;;124.0;2.0;2.0;;;Segunda mano/buen estado;sur;1970.0;Calefacción individual;Planta 2ª exterior;True;40°24'53.41'' N;3°41'27.43'' W
+105276550;Piso en venta en calle de Alcalá;Goya;1690000.0;;165.0;3.0;3.0;;;Segunda mano/buen estado;oeste;;Calefacción central;Planta 6ª exterior;True;40°25'1.98'' N;3°42'8.09'' W
+103952448;Chalet adosado en venta en paseo de La Habana;Nueva España;3110000.0;;420.0;5.0;5.0;;True;;;1987.0;Gas natural;;;40°26'53.19'' N;3°41'24.16'' W
+103334938;Casa o chalet independiente en venta en calle de Zumárraga;El Plantío;2950000.0;;780.0;7.0;8.0;3528.0;True;Segunda mano/buen estado;oeste;1970.0;;;;40°28'11.04'' N;3°48'56.66'' W
+106296553;Piso en venta en calle del Duque de Sesto;Goya;1650000.0;;192.0;3.0;2.0;;;Segunda mano/buen estado;;;;Planta 3ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+103342470;Casa o chalet independiente en venta en avenida de Fuentelarreina;Ciudad Universitaria;2250000.0;;510.0;6.0;7.0;1280.0;True;;este;1970.0;Calefacción individual;;;40°28'15.94'' N;3°45'0.37'' W
+104484357;Casa o chalet independiente en venta en calle de la Madre de Dios;Nueva España;4700000.0;;886.0;6.0;7.0;1175.0;True;Segunda mano/buen estado;este;2003.0;Calefacción individual;;;40°27'46.15'' N;3°40'28.27'' W
+105033854;Piso en venta en calle del Conde de Peñalver;Goya;2350000.0;;172.0;4.0;4.0;;;;oeste;1930.0;Gas natural;Planta 2ª exterior;True;40°25'30.02'' N;3°40'33.26'' W
+28839965;Casa o chalet independiente en venta en calle Paradores;El Plantío;3100000.0;;1.0;5.0;6.0;4440.0;True;;este;1993.0;Calefacción individual;;;40°28'34.81'' N;3°49'38.53'' W
+106046207;Ático en venta en calle de Pablo Vidal;Colina;1770000.0;;297.0;4.0;5.0;;True;Segunda mano/buen estado;este;2023.0;Eléctrica;Planta 4ª exterior;True;40°27'30.79'' N;3°39'46.05'' W
+104428294;Casa o chalet independiente en venta en calle Paradores;El Plantío;2300000.0;;541.0;5.0;5.0;2500.0;True;Segunda mano/buen estado;oeste;2004.0;Calefacción individual;;;40°28'34.81'' N;3°49'38.53'' W
+102694762;Casa o chalet independiente en venta en calle de Guerrero y Mendoza;Ciudad Jardín;2475000.0;;300.0;3.0;4.0;;;Segunda mano/buen estado;oeste;;Calefacción individual;;;40°27'4.87'' N;3°40'23.27'' W
+105943886;Piso en venta en calle de los Gavilanes;Fuentelarreina;920000.0;;207.0;4.0;3.0;;True;Segunda mano/buen estado;sur;;Calefacción central;Planta 5ª exterior;True;40°24'5.86'' N;3°35'25.62'' W
+104938362;Piso en venta en calle del Duque de Sesto;Goya;1290000.0;;133.0;2.0;3.0;;True;Segunda mano/buen estado;sur;1941.0;Gas;Planta 1ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+105968310;Piso en venta en calle de Bailén;Palacio;1100000.0;;164.0;3.0;2.0;;;Segunda mano/buen estado;;1940.0;;Planta 4ª exterior;True;40°25'19.18'' N;3°42'45.63'' W
+105547133;Casa o chalet independiente en venta en calle Peguerinos;Ciudad Universitaria;3900000.0;;709.0;5.0;6.0;1005.0;True;Segunda mano/buen estado;oeste;;;;;40°28'1.67'' N;3°43'53.65'' W
+103682987;Casa o chalet independiente en venta en calle Lamiaco;El Plantío;2950000.0;;555.0;6.0;6.0;2502.0;True;Segunda mano/buen estado;oeste;1970.0;Calefacción individual;;;40°28'22.75'' N;3°49'10.19'' W
+105659785;Piso en venta en calle de Pizarro;Malasaña-Universidad;665000.0;;131.0;2.0;2.0;;;Segunda mano/buen estado;oeste;1900.0;;Planta 2ª exterior;True;40°25'21.39'' N;3°42'22.85'' W
+104286191;Piso en venta en calle de José Abascal;Nuevos Ministerios-Ríos Rosas;2790000.0;;459.0;4.0;3.0;;True;;sur;1957.0;Gas;Planta 2ª exterior;True;40°26'19.39'' N;3°42'7.7'' W
+103518655;Casa o chalet independiente en venta en ronda Abubilla;Conde Orgaz-Piovera;3500000.0;;489.0;6.0;6.0;1031.0;True;Segunda mano/buen estado;oeste;2017.0;Calefacción individual;;;40°27'8.02'' N;3°38'17.83'' W
+105027371;Piso en venta en calle de Alcalá;Guindalera;1149000.0;;207.0;3.0;3.0;;;Segunda mano/buen estado;este;1957.0;Gas;Planta 1ª exterior;True;40°25'1.98'' N;3°42'8.09'' W
+105245909;Dúplex en venta en calle Ariel;Legazpi;1100000.0;;235.0;3.0;3.0;;True;Segunda mano/buen estado;sur;2005.0;Gas natural;Planta 9ª exterior;True;40°23'36.55'' N;3°40'44.9'' W
+104804297;Piso en venta en calle de Santiago;Palacio;1400000.0;;240.0;3.0;2.0;;;;este;;Gas natural;Planta 3ª exterior;True;40°24'57.9'' N;3°42'35.06'' W
+105113334;Ático en venta en calle de Fuencarral;Malasaña-Universidad;1030000.0;;60.0;2.0;;;;Segunda mano/buen estado;este;;Calefacción individual;Planta 5ª exterior;True;40°25'12.98'' N;3°42'5.96'' W
+106026132;Piso en venta en calle de Toledo;Palacio;529000.0;;89.0;3.0;;;;Segunda mano/buen estado;este;1900.0;Calefacción individual;Planta 4ª exterior;True;40°24'53.87'' N;3°42'27.34'' W
+105969917;Ático en venta en calle de Arriaza;Argüelles;580000.0;;69.0;2.0;;;;Segunda mano/buen estado;oeste;1929.0;Gas;Planta 6ª exterior;True;40°25'14.42'' N;3°42'56.87'' W
+103052663;Piso en venta en calle de Serrano;Castellana;2300000.0;;214.0;4.0;4.0;;;;oeste;1935.0;Calefacción central;Planta 1ª exterior;True;40°25'14.99'' N;3°41'19.64'' W
+96990574;Chalet pareado en venta en avenida del Papa Negro;Conde Orgaz-Piovera;1890000.0;;385.0;5.0;4.0;;True;Segunda mano/buen estado;oeste;1994.0;Gas natural;;;40°27'4.46'' N;3°38'0.44'' W
+105692476;Piso en venta en calle de Linneo;Imperial;515000.0;;108.0;4.0;2.0;;;;oeste;1960.0;Gas;Planta 1ª exterior;True;40°24'48.9'' N;3°43'13.47'' W
+105692476;Piso en venta en calle de Linneo;Imperial;515000.0;;108.0;4.0;2.0;;;;oeste;1960.0;Gas;Planta 1ª exterior;True;40°24'48.9'' N;3°43'13.47'' W
+105329169;Piso en venta en calle de Castelló;Castellana;1499000.0;;170.0;3.0;3.0;;;Segunda mano/buen estado;este;;;Planta 1ª interior;True;40°25'20.65'' N;3°40'54.64'' W
+101329238;Piso en venta en calle del Doctor Esquerdo;Fuente del Berro;795000.0;;128.0;3.0;2.0;;;Segunda mano/buen estado;;;;Planta 5ª exterior;True;40°25'39.3'' N;3°40'5.52'' W
+105580740;Piso en venta en calle del Monasterio de las Batuecas, 23;Montecarmelo;724000.0;23.0;163.0;3.0;2.0;;True;Segunda mano/buen estado;este;;Gas natural;;True;40°30'7.28'' N;3°42'17.87'' W
+106361370;Piso en venta en calle del Casino;Lavapiés-Embajadores;460000.0;;88.0;3.0;;;True;;norte;1955.0;Gas natural;Planta 5ª interior;True;40°24'24.8'' N;3°42'16.72'' W
+106280987;Piso en venta en calle de Carranza;Malasaña-Universidad;690000.0;;98.0;2.0;;;;Segunda mano/buen estado;norte;1970.0;Gas natural;Planta 1ª exterior;True;40°25'44.06'' N;3°42'9.18'' W
+102455413;Piso en venta en calle de Serrano;Castellana;1275000.0;;125.0;3.0;4.0;;;Segunda mano/buen estado;este;;Calefacción central;Planta 1ª exterior;True;40°25'14.99'' N;3°41'19.64'' W
+106294584;Chalet adosado en venta en calle del Cerro Minguete;Arroyo del Fresno;1072000.0;;330.0;6.0;5.0;120.0;True;Segunda mano/buen estado;sur;1997.0;Gas natural;;;40°29'11.04'' N;3°42'54.54'' W
+104566289;Piso en venta en calle de la Fuente del Berro;Goya;1490000.0;;186.0;5.0;2.0;;True;Segunda mano/buen estado;este;;Calefacción central;Planta 3ª exterior;True;40°25'36.81'' N;3°40'14.31'' W
+106295762;Piso en venta en calle San Martín de Porres;Ciudad Universitaria;1278000.0;;217.0;4.0;4.0;;True;Segunda mano/buen estado;oeste;1971.0;Gas natural;Planta 1ª exterior;True;40°27'56.68'' N;3°43'37.46'' W
+104870397;Piso en venta en paseo de la Castellana;Castilla;333000.0;;37.0;;;;;Segunda mano/buen estado;este;1960.0;Eléctrica;;True;40°24'16.53'' N;3°36'53.06'' W
+105615858;Casa o chalet independiente en venta en calle Eibar;El Plantío;9000000.0;;1.0;9.0;13.0;2890.0;True;Segunda mano/buen estado;oeste;2012.0;Gas natural;;;40°28'14.21'' N;3°48'38.29'' W
+105528295;Piso en venta en calle del Conde de Peñalver;Goya;550000.0;;60.0;;;;;Segunda mano/buen estado;;;;Planta 1ª interior;True;40°25'30.02'' N;3°40'33.26'' W
+105490983;Piso en venta en calle de la Fuente del Berro;Goya;445000.0;;65.0;2.0;2.0;;;Segunda mano/buen estado;norte;;Calefacción individual;;True;40°25'36.81'' N;3°40'14.31'' W
+105538120;Piso en venta en calle del Duque de Sesto;Goya;790000.0;;78.0;2.0;2.0;;;Segunda mano/buen estado;;;;Planta 6ª exterior;True;40°25'21.71'' N;3°40'42.99'' W
+106281323;Piso en venta en calle de la Fuente del Berro;Goya;1700000.0;;170.0;3.0;2.0;;;Segunda mano/buen estado;oeste;1940.0;Gas natural;Planta 1ª exterior;True;40°25'36.81'' N;3°40'14.31'' W
+106232776;Piso en venta en calle de Hilarión Eslava;Gaztambide;2100000.0;;265.0;5.0;4.0;;;Segunda mano/buen estado;oeste;;Gas;Planta 2ª exterior;True;40°25'55.62'' N;3°43'1.05'' W
+105700444;Piso en venta en calle del Príncipe de Vergara;Castellana;3900000.0;;251.0;4.0;5.0;;True;;;1946.0;Calefacción central;Planta 3ª exterior;True;40°25'22.3'' N;3°40'49.93'' W
+103994353;Casa o chalet independiente en venta en calle de Amorebieta;El Plantío;2900000.0;;1.0;7.0;8.0;3222.0;True;Segunda mano/buen estado;;1970.0;;;;40°28'9.33'' N;3°48'13.82'' W
+99170917;Piso en venta en calle de Jorge Juan;Recoletos;1200000.0;;133.0;3.0;4.0;;;Segunda mano/buen estado;oeste;1891.0;Calefacción central;Planta 1ª interior;True;40°25'26.5'' N;3°41'15.87'' W
+105294446;Piso en venta en calle del Príncipe de Vergara;Goya;1830000.0;;175.0;2.0;3.0;;;Segunda mano/buen estado;sur;;Gas;Planta 1ª exterior;True;40°25'22.3'' N;3°40'49.93'' W
+106167181;Piso en venta en calle de Fernán González;Ibiza;959000.0;;104.0;3.0;3.0;;;Segunda mano/buen estado;;1945.0;Calefacción central;;True;40°25'31.17'' N;3°40'26.38'' W
+103550987;Piso en venta en avenida de América;Prosperidad;1400000.0;;236.0;4.0;2.0;;True;;;1968.0;Calefacción central;Planta 1ª exterior;True;40°26'16.35'' N;3°40'39.02'' W
+106265016;Piso en venta en calle del Carril de los Caleros;Aravaca;1300000.0;;188.0;4.0;4.0;;True;Segunda mano/buen estado;oeste;2019.0;Gas;;True;40°27'43.9'' N;3°47'39.4'' W
+105597765;Piso en venta en calle de Bravo Murillo;Bellas Vistas;580000.0;;136.0;3.0;2.0;;;;oeste;1988.0;Bomba de frío/calor;Planta 1ª exterior;True;40°26'2.63'' N;3°42'16.36'' W
+103607713;Piso en venta en paseo del Rey;Argüelles;435000.0;;89.0;2.0;;;;Segunda mano/buen estado;oeste;;Gas natural;Planta 3ª interior;True;40°25'14.33'' N;3°43'5.53'' W
+105893457;Piso en venta en paseo del Pintor Rosales;Argüelles;4100000.0;;412.0;5.0;5.0;;True;Segunda mano/buen estado;oeste;1970.0;Gas natural;Planta 5ª exterior;True;40°25'40.6'' N;3°43'18'' W
+106185665;Dúplex en venta en calle de Añastro;Atalaya;1900000.0;;457.0;5.0;4.0;;True;;sur;1983.0;Gas natural;Planta 4ª exterior;True;40°28'2.79'' N;3°39'53.21'' W
+105597765;Piso en venta en calle de Bravo Murillo;Bellas Vistas;580000.0;;136.0;3.0;2.0;;;;oeste;1988.0;Bomba de frío/calor;Planta 1ª exterior;True;40°26'2.63'' N;3°42'16.36'' W
+105500975;Piso en venta en avenida de Alberto de Alcocer;Nueva España;860000.0;;129.0;3.0;2.0;;True;;sur;;Calefacción central;Planta 1ª exterior;True;40°27'33.76'' N;3°41'19.53'' W
+100645460;Piso en venta en plaza de Valparaíso;Bernabéu-Hispanoamérica;965000.0;;145.0;3.0;3.0;;True;;sur;2000.0;Gas;Planta 4ª exterior;True;40°27'18.77'' N;3°40'52.73'' W
+103798885;Casa o chalet independiente en venta en calle de las Islas Bikini;Peñagrande;1680000.0;;414.0;5.0;4.0;338.0;True;Segunda mano/buen estado;oeste;;Calefacción individual;;;40°28'28.11'' N;3°43'39.49'' W
+105822598;Piso en venta en plaza Manolete;Cuatro Caminos;1050000.0;;200.0;5.0;3.0;;;;;;Gas;Planta 1ª exterior;True;40°27'15.13'' N;3°41'28.99'' W
+97670197;Piso en venta en avenida de América;Guindalera;1290000.0;;210.0;4.0;3.0;;True;Segunda mano/buen estado;oeste;1966.0;Calefacción central;Planta 9ª exterior;True;40°26'16.35'' N;3°40'39.02'' W
+105963713;Piso en venta en avenida de Nuestra Señora de Fátima;Vista Alegre;295000.0;;92.0;4.0;;;True;;sur;1972.0;Gas natural;;True;40°23'12.89'' N;3°44'35.73'' W
+105768680;Piso en venta en calle del Convenio;San Diego;200000.0;;72.0;;;;;Segunda mano/buen estado;oeste;2000.0;Gas natural;Planta 4ª exterior;True;40°23'38.09'' N;3°40'20.61'' W
+106158829;Piso en venta en paseo de la Castellana;Ventilla-Almenara;960000.0;;163.0;4.0;2.0;;True;Segunda mano/buen estado;este;1965.0;Calefacción central;Planta 5ª exterior;True;40°24'16.53'' N;3°36'53.06'' W
+101981389;Piso en venta en calle de la Magdalena;Lavapiés-Embajadores;645000.0;;262.0;2.0;2.0;;;Segunda mano/buen estado;;1850.0;Gas natural;;True;40°24'45.15'' N;3°42'11.5'' W
+97801997;Casa o chalet independiente en venta en calle Navarredonda de Gredos;Fuentelarreina;1970000.0;;862.0;8.0;7.0;1352.0;True;Segunda mano/buen estado;oeste;1986.0;Gas natural;;;40°28'42.67'' N;3°44'29.31'' W
+102823965;Casa o chalet independiente en venta en calle Siguero;Fuentelarreina;3000000.0;;881.0;5.0;7.0;1393.0;;Segunda mano/buen estado;oeste;1980.0;Gas natural;;;40°28'41.16'' N;3°44'43.98'' W
+105943388;Piso en venta en calle del Príncipe de Vergara;Recoletos;2184000.0;;211.0;3.0;3.0;;;Segunda mano/buen estado;;1939.0;Gas;Planta 1ª exterior;True;40°25'22.3'' N;3°40'49.93'' W
+106430600;Ático en venta en calle de Ortiz Campos;Pradolongo;446000.0;;98.0;3.0;;;True;Segunda mano/buen estado;oeste;2005.0;Gas natural;Planta 5ª exterior;True;40°23'7.2'' N;3°42'23.08'' W
+106149700;Dúplex en venta en calle de Antonio López;Almendrales;780000.0;;241.0;4.0;3.0;;True;Segunda mano/buen estado;sur;2005.0;Gas natural;;True;40°23'51.15'' N;3°42'53.98'' W
+106083598;Piso en venta en calle de San Bernardo;Malasaña-Universidad;1100000.0;;128.0;3.0;2.0;;;Segunda mano/buen estado;;;Gas natural;Planta 2ª exterior;True;40°25'14.43'' N;3°42'30.46'' W
+106081215;Piso en venta en paseo del Rey;Argüelles;740000.0;;90.0;2.0;2.0;;;Segunda mano/buen estado;sur;1940.0;Gas;;True;40°25'14.33'' N;3°43'5.53'' W
+105201758;Piso en venta en calle de Ayala;Goya;2630000.0;;306.0;5.0;4.0;;;Segunda mano/buen estado;sur;1962.0;Calefacción individual;Planta 4ª exterior;True;40°25'40.97'' N;3°41'20.3'' W
+103979629;Piso en venta en calle de Santa Engracia;Almagro;1400000.0;;146.0;2.0;3.0;;;Segunda mano/buen estado;oeste;1932.0;Gas natural;Planta 1ª exterior;True;40°25'41.55'' N;3°41'45.67'' W
+104880975;Piso en venta en calle de San Marcos;Chueca-Justicia;750000.0;;73.0;;2.0;;;Segunda mano/buen estado;este;1848.0;Bomba de frío/calor;Planta 2ª exterior;True;40°25'18.79'' N;3°41'59.17'' W
+104311723;Piso en venta en calle del Desengaño;Malasaña-Universidad;1260000.0;;150.0;3.0;2.0;;;Segunda mano/buen estado;norte;1900.0;Eléctrica;Planta 1ª exterior;True;40°25'13.92'' N;3°42'8.6'' W
+104880975;Piso en venta en calle de San Marcos;Chueca-Justicia;750000.0;;73.0;;2.0;;;Segunda mano/buen estado;este;1848.0;Bomba de frío/calor;Planta 2ª exterior;True;40°25'18.79'' N;3°41'59.17'' W
+105408203;Piso en venta en calle de Donoso Cortés;Gaztambide;459000.0;;95.0;;;;;Segunda mano/buen estado;sur;1980.0;Gas natural;;True;40°26'9.49'' N;3°42'17.02'' W
+106379592;Piso en venta en calle de Núñez de Balboa;Castellana;4800000.0;;500.0;6.0;5.0;;True;;oeste;1975.0;Calefacción central;Planta 4ª exterior;True;40°25'18.2'' N;3°40'59.4'' W
+105049357;Piso en venta en calle de Alonso Carbonell;Chopera;469900.0;;143.0;4.0;2.0;;;Segunda mano/buen estado;oeste;1953.0;Gas natural;Planta 1ª exterior;True;40°23'43.53'' N;3°41'47.22'' W
+105882131;Piso en venta en calle Vallandes;Moscardó;499000.0;;111.0;3.0;2.0;;True;Segunda mano/buen estado;;1978.0;Gas natural;Planta 5ª exterior;True;40°23'28.23'' N;3°42'12.7'' W
+106253410;Ático en venta en calle del Clavel;Chueca-Justicia;995000.0;;75.0;;;;;Segunda mano/buen estado;;1948.0;Calefacción central;Planta 6ª exterior;True;40°25'10.15'' N;3°41'59.29'' W
+103786667;Chalet adosado en venta en paseo de La Habana;Nueva España;3110000.0;;430.0;6.0;6.0;;True;;sur;1987.0;;;;40°26'53.19'' N;3°41'24.16'' W
