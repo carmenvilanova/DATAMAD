@@ -2,6 +2,19 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 
+# Cargar y mostrar varios logos en una fila horizontal
+# Crea una fila con tantas columnas como logos quieras mostrar
+col1, col2, col3 = st.columns([1, 1, 1])  # Ajusta los valores según el número de logos
+
+# Mostrar cada logo en una columna para alinearlos en una fila
+with col1:
+    st.image("logos/ComunidadMadrid.png", use_column_width=True)  # Ajusta la ruta del logo
+with col2:
+    st.image("logos/idealista.png", use_column_width=True)  # Ajusta la ruta del logo
+with col3:
+    st.image("logos/urjc.png", use_column_width=True)  # Ajusta la ruta del logo
+
+
 # Función para calcular la distancia entre dos puntos geográficos usando la fórmula de Haversine
 def calcular_distancia(lat1, lon1, lat2, lon2):
     try:
@@ -32,8 +45,7 @@ centros_sanitarios_df = pd.read_csv("datos_madrid_latlon.csv")
 # Verificar si hay valores NaN en coordenadas
 if pisos_df['LATITUD'].isnull().any() or pisos_df['LONGITUD'].isnull().any():
     st.warning("Hay valores NaN en las coordenadas de los pisos. Verifica los datos.")
-if centros_sanitarios_df['latitud'].isnull().any() or centros_sanitarios_df['longitud'].isnull().any():
-    st.warning("Hay valores NaN en las coordenadas de los centros sanitarios. Verifica los datos.")
+
 
 # Títulos y descripción en Streamlit
 st.title("Buscador de Pisos en Madrid")
@@ -74,7 +86,7 @@ if not pisos_filtrados.empty and not desfibriladores_df.empty:
 
 # Filtro de distancia a centros sanitarios
 st.sidebar.header("Filtrar por cercanía a centros sanitarios")
-distancia_max_centro = st.sidebar.slider("Distancia máxima a centros sanitarios (m)", min_value=0, max_value=50000, value=500)
+distancia_max_centro = st.sidebar.slider("Distancia máxima a centros sanitarios (m)", min_value=0, max_value=5000, value=500)
 
 if not pisos_filtrados.empty and not centros_sanitarios_df.empty:
     # Crear columnas para la distancia mínima y el centro más cercano
