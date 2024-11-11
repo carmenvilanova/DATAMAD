@@ -2,17 +2,6 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 
-# Cargar y mostrar varios logos en una fila horizontal
-# Crea una fila con tantas columnas como logos quieras mostrar
-col1, col2, col3 = st.columns([1, 1, 1])  # Ajusta los valores según el número de logos
-
-# Mostrar cada logo en una columna para alinearlos en una fila
-with col1:
-    st.image("logos/ComunidadMadrid.png", use_column_width=True)  # Ajusta la ruta del logo
-with col2:
-    st.image("logos/idealista.png", use_column_width=True)  # Ajusta la ruta del logo
-with col3:
-    st.image("logos/urjc.png", use_column_width=True)  # Ajusta la ruta del logo
 
 
 # Función para calcular la distancia entre dos puntos geográficos usando la fórmula de Haversine
