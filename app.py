@@ -38,14 +38,14 @@ if pisos_df['LATITUD'].isnull().any() or pisos_df['LONGITUD'].isnull().any():
 
 # Títulos y descripción en Streamlit
 st.title("Buscador de Pisos en Madrid")
-st.markdown("Filtra pisos por criterios de tamaño y precio para encontrar el que mejor se adapte a tus necesidades.")
+st.markdown("Filtra pisos utilizando datos abiertos de la Comunidad de Madrid!")
 
 # Filtros de precio y tamaño
 st.sidebar.header("Filtros de búsqueda")
-precio_min = st.sidebar.number_input("Precio mínimo (€)", min_value=0, value=500)
-precio_max = st.sidebar.number_input("Precio máximo (€)", min_value=0, value=2000000)
-tamano_min = st.sidebar.number_input("Tamaño mínimo (m²)", min_value=0, value=50)
-tamano_max = st.sidebar.number_input("Tamaño máximo (m²)", min_value=0, value=1000)
+precio_min = st.sidebar.number_input("Precio mínimo (€)", min_value=0, value=100000)
+precio_max = st.sidebar.number_input("Precio máximo (€)", min_value=0, value=5000000)
+tamano_min = st.sidebar.number_input("Tamaño mínimo (m²)", min_value=0, value=10)
+tamano_max = st.sidebar.number_input("Tamaño máximo (m²)", min_value=0, value=2000)
 
 # Filtrar pisos por criterios de precio y tamaño
 pisos_filtrados = pisos_df[
@@ -57,7 +57,7 @@ pisos_filtrados = pisos_df[
 
 # Filtro de distancia a desfibriladores
 st.sidebar.header("Filtrar por cercanía a desfibriladores")
-distancia_max_desfibrilador = st.sidebar.slider("Distancia máxima a desfibriladores (m)", min_value=0, max_value=5000, value=500)
+distancia_max_desfibrilador = st.sidebar.slider("Distancia máxima a desfibriladores (m)", min_value=0, max_value=500, value=100)
 
 if not pisos_filtrados.empty and not desfibriladores_df.empty:
     # Crear columna de distancia mínima a desfibriladores
@@ -75,7 +75,7 @@ if not pisos_filtrados.empty and not desfibriladores_df.empty:
 
 # Filtro de distancia a centros sanitarios
 st.sidebar.header("Filtrar por cercanía a centros sanitarios")
-distancia_max_centro = st.sidebar.slider("Distancia máxima a centros sanitarios (m)", min_value=0, max_value=5000, value=500)
+distancia_max_centro = st.sidebar.slider("Distancia máxima a centros sanitarios (m)", min_value=0, max_value=500, value=100)
 
 if not pisos_filtrados.empty and not centros_sanitarios_df.empty:
     # Crear columnas para la distancia mínima y el centro más cercano
